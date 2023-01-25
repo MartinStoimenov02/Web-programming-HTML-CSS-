@@ -1,0 +1,39 @@
+h1{
+	color: blue; 
+	font-size:80px;
+}
+
+.pz{
+	color:darkblue; 
+	font-size: 30px;
+	font-family:Courier New;
+}
+
+font{
+	font-size:23px;
+	color:darkblue;
+}
+
+.hl{
+	font-size:35px;
+	color:darkblue;
+}
+
+.hl:hover{
+	width:80%;
+	background:white;
+	cursor:pointer;
+	border-bottom:2px solid red;
+	transition:.5s;
+	border-radius:10px 10px 0px 0px;
+}
+
+.hl:active {
+	border:2px solid black;
+	transition:0s;
+}
+
+img:hover{
+	opacity:.5;
+	
+}

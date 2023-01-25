@@ -1,0 +1,43 @@
+h1{
+	color: white; 
+	font-size:80px;
+}
+
+.hl-font{
+	color:#193b17;
+	font-size:40px;
+}
+
+.hl-font:hover{
+	width:80%;
+	background:#3c7538;
+	cursor:pointer;
+	border-bottom:2px solid red;
+	transition:.5s;
+	border-radius:10px 10px 0px 0px;
+}
+
+.hl-font:active {
+	border:2px solid black;
+	transition:0s;
+}
+
+img:hover{
+	opacity:.5;	
+}
+
+.podh1{
+	color:white; 
+	font-size: 30px;
+	font-family:Courier New;
+}
+
+font{
+	color: white; 
+	font-size:25px;
+}
+
+.footer{
+	size:5 px ;
+	color:white;
+}
